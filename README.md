@@ -1,4 +1,4 @@
-#**Web Automation Assignment with Java and Selenium**
+# **Web Automation Assignment with Java and Selenium**
 Overview
 This repository contains a set of web automation test cases developed using Java and Selenium WebDriver. These test cases focus on automating various functionalities of popular websites like Amazon and Google, covering actions like product search, filtering, adding to cart, and validating page elements.
 Prerequisites
@@ -7,13 +7,13 @@ Prerequisites
 - ChromeDriver
 - Test data in Excel (for Test Case 10)
 
-#Setup Instructions
+# Setup Instructions
 1.	Clone this repository:
 2.	Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 3.	Add Selenium WebDriver to your project’s build path.
 4.	Download and set up ChromeDriver in your system's PATH.
 
-#Test Cases Overview
+# Test Cases Overview
  
 | Test Case     | Description                                                                                                            |
 |---------------|------------------------------------------------------------------------------------------------------------------------|
@@ -30,7 +30,7 @@ Prerequisites
 
 	
 _______________________________________
-#Test Case Details
+# Test Case Details
 Test Case 01
 •	Steps:
 1.	Launch Chrome and open Amazon.
@@ -43,11 +43,11 @@ Test Case 02
 2.	Add the 3rd and 4th products to the cart, validate the total product count.
 ...
 
-#How to Run the Tests
+# How to Run the Tests
 1.	Ensure ChromeDriver is configured and updated to match your Chrome version.
 2.	Run each test case as a Java application or from the command line with:
 
-#Future Improvements
+# Future Improvements
 •	Integrate TestNG for advanced testing functionality.
 •	Add more validation checks and improve error handling.
 •	Create more robust reports for test results.
